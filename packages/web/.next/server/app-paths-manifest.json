@@ -1,0 +1,12 @@
+{
+  "/api/cards/due/route": "app/api/cards/due/route.js",
+  "/api/cards/review/route": "app/api/cards/review/route.js",
+  "/api/notes/route": "app/api/notes/route.js",
+  "/api/stats/route": "app/api/stats/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/notes/page": "app/notes/page.js",
+  "/page": "app/page.js",
+  "/quiz/page": "app/quiz/page.js",
+  "/review/page": "app/review/page.js"
+}

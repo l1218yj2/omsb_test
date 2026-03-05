@@ -1,0 +1,9 @@
+{
+  "llm": {
+    "provider": "anthropic",
+    "model": "claude-sonnet-4-5-20250514",
+    "apiKey": "${ANTHROPIC_API_KEY}"
+  },
+  "dataDir": "./data",
+  "webPort": 3777
+}

@@ -1,0 +1,12 @@
+{
+  "/api/cards/due/route": "/api/cards/due",
+  "/api/cards/review/route": "/api/cards/review",
+  "/api/notes/route": "/api/notes",
+  "/api/stats/route": "/api/stats",
+  "/_not-found/page": "/_not-found",
+  "/dashboard/page": "/dashboard",
+  "/notes/page": "/notes",
+  "/page": "/",
+  "/quiz/page": "/quiz",
+  "/review/page": "/review"
+}
