@@ -4,7 +4,7 @@
 
 OMSB는 **FSRS-5**(Free Spaced Repetition Scheduler) 알고리즘을 기반으로 한 **개인 학습 최적화 시스템**입니다. 인지과학에 기반한 간격 반복과 다양한 퀴즈 모드를 결합하여 장기 기억력을 극대화합니다.
 
-**평가 점수: 9.7/10** | 30개 기능 | 4라운드 반복 개선
+**[Live Demo](https://omsb-mathpresso.vercel.app)** | **평가 점수: 9.7/10** | 30개 기능 | 4라운드 반복 개선
 
 ## 왜 OMSB인가?
 
